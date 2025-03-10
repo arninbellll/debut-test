@@ -1,1 +1,3 @@
-# debut-test 12
+# debut-test 
+npm install
+# npm start
